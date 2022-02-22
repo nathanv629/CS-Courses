@@ -1,2 +1,2 @@
 # CS-Courses 
-# Projects completed for CS courses and Coursera courses
+Projects completed for CS courses and Coursera courses
