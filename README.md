@@ -1,2 +1,2 @@
 # CS-Courses 
-Class projects and assignments for CS and Coursera courses.
+Assignments and projects produced in Computer Science and Coursera courses.
